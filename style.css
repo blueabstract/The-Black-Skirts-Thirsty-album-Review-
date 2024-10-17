@@ -1,0 +1,33 @@
+body{
+    background-color: whitesmoke;
+}
+.banner{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+#album_cover{
+    margin-top: 50px;
+    border: 2px solid black;
+    height: 400px;
+}
+
+#track_title{
+    background-color: black;
+    color: whitesmoke;
+}
+
+#about_artist{
+    background-color: black;
+    color: whitesmoke;
+}
+
+#album_desp{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.x{
+    color:darkslateblue;
+}
